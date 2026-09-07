@@ -11,14 +11,11 @@ Claude Code lets you run any command as a "statusline" — a line rendered above
 
 Example output:
 
-![Statusline example](screenshot.png)
-
 ```
 Sonnet 5 📁 .../code | CONTEXT ██████████────── 129.2k/200.0k 65.0% | 30d ████──────────── 28.0% | session ████──────────── 77.0% Resets in 2h43m
 ```
-<img width="1336" height="44" alt="image" src="https://github.com/user-attachments/assets/1f455b6f-f57b-4d7e-8b9c-ab692a1063e7" />
 
-
+<img width="1336" height="44" alt="Statusline example" src="https://github.com/user-attachments/assets/1f455b6f-f57b-4d7e-8b9c-ab692a1063e7" />
 
 This mirrors the "Plan usage limits" screen in the Claude app/desktop settings (Settings → Usage), but is always visible in the terminal without leaving Claude Code.
 
