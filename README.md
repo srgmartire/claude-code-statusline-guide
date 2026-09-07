@@ -14,8 +14,7 @@ Example output:
 ```
 Sonnet 5 📁 .../code | CONTEXT ██████████────── 129.2k/200.0k 65.0% | 30d ████──────────── 28.0% | session ████──────────── 77.0% Resets in 2h43m
 ```
-
-<img width="1336" height="44" alt="Statusline example" src="https://github.com/user-attachments/assets/1f455b6f-f57b-4d7e-8b9c-ab692a1063e7" />
+<img width="1216" height="51" alt="2026-09-07_17-06-01" src="https://github.com/user-attachments/assets/7a5aae5d-1f45-4c7a-aa5d-db80fdb82491" />
 
 This mirrors the "Plan usage limits" screen in the Claude app/desktop settings (Settings → Usage), but is always visible in the terminal without leaving Claude Code.
 
