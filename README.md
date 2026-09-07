@@ -16,8 +16,11 @@ Example output:
 ```
 Sonnet 5 📁 .../code | CONTEXT ██████████────── 129.2k/200.0k 65.0% | 30d ████──────────── 28.0% | session ████──────────── 77.0% Resets in 2h43m
 ```
+<img width="1336" height="44" alt="image" src="https://github.com/user-attachments/assets/1f455b6f-f57b-4d7e-8b9c-ab692a1063e7" />
 
-This mirrors the "Plan usage limits" screen in the Claude app/desktop settings (Settings → Usage), but always visible in the terminal without leaving Claude Code.
+
+
+This mirrors the "Plan usage limits" screen in the Claude app/desktop settings (Settings → Usage), but is always visible in the terminal without leaving Claude Code.
 
 It's built on [ccstatusline](https://www.npmjs.com/package/ccstatusline), an open-source, config-driven statusline renderer for Claude Code. We don't write any custom code — just configuration.
 
