@@ -1,7 +1,5 @@
 # Claude Code Statusline — Usage Bar (Build Guide)
 
-> Related: [[Usage bar]] — the older multi-machine changelog with extra history on a Headroom-desktop-app wrapper variant and low-level widget-width patches. This note is a clean, self-contained build guide meant to be handed to Claude Code directly.
-
 ## What this is (README)
 
 Claude Code lets you run any command as a "statusline" — a line rendered above your prompt, refreshed on an interval. This guide builds one that shows, all on one line:
@@ -12,6 +10,8 @@ Claude Code lets you run any command as a "statusline" — a line rendered above
 - **Session usage** — your rolling 5-hour Pro/Max quota, with a countdown to reset
 
 Example output:
+
+![Statusline example](screenshot.png)
 
 ```
 Sonnet 5 📁 .../code | CONTEXT ██████████────── 129.2k/200.0k 65.0% | 30d ████──────────── 28.0% | session ████──────────── 77.0% Resets in 2h43m
